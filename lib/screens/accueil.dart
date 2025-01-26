@@ -33,7 +33,7 @@ class _AccueilScreenState extends State<AccueilScreen> {
           ),
         ),
         title: const Text(
-          'Accueil',
+          'Ma bibliothèque', // Titre de l'AppBar
           style: TextStyle(
             color: Colors.white,
             fontWeight: FontWeight.bold,

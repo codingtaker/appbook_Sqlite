@@ -49,7 +49,7 @@ class _EditBookState extends State<EditBook> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Edit books✍️'),
+        title: const Text('Edit book✍️'),
         actions: [
           IconButton(
             onPressed: () {
