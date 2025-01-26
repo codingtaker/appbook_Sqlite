@@ -174,5 +174,3 @@ Contact : [benicioallaglo@gmail.com](mailto:benicioallaglo@gmail.com)
 Ce projet est sous licence [MIT](LICENSE). Vous êtes libre de l'utiliser, le modifier et le distribuer avec attribution.
 
 # appBook_Sqlite
-
-# appbook_Sqlite
